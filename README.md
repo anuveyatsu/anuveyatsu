@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Check out my stats for last year:
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=anuveyatsu&count_private=true&show_icons=true&hide=stars&theme=graywhite)
+
 <!--
 **anuveyatsu/anuveyatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
